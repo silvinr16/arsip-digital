@@ -1,0 +1,8 @@
+{
+    "require": {
+        "kreait/firebase-php": "^5.26",
+        "phpoffice/phpspreadsheet": "^5.1",
+        "mpdf/mpdf": "^8.2",
+        "google/cloud-firestore": "^1.41"
+    }
+}

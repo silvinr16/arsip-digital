@@ -1,0 +1,2 @@
+# Example: place project in a directory served by Apache. Adjust BASE_URL in config/app.php accordingly.
+Options -Indexes
